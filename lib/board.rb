@@ -1,4 +1,4 @@
 # Define the variable board below.
-def board
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+def board_display
+board_display = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
